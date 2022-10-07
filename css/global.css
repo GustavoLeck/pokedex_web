@@ -1,0 +1,111 @@
+body{
+
+    background-image: url(../src/pokemonFundo.jpg);
+    background-attachment:local;
+    background-size: 100%;
+    font-family:cursive;
+    }
+
+.header{
+    background-color: #fccc04;
+    color: #3782d6;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 5em;
+    border-radius: 10px;
+    
+}
+
+.selecao{
+    display: flex;
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: #0c4d86;
+    color: #fefefe;
+    padding: 1em;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.logo{
+
+    max-height:5em;
+    height: auto;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+
+
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0px
+}
+
+.box{
+    width: 400px;
+
+    background: #0c4d86;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    border: solid;
+    border-color: #fccc04;
+    
+
+    
+}
+
+.button{
+    background-color: #018001;
+    padding: 0.5em;
+    border-radius: 4px;
+    color: #fefefe;
+    margin: 2em; 
+    cursor: pointer;
+
+}
+
+.campoTexto{
+    margin-top: 2em;
+
+}
+
+input{
+    border-radius: 10px;
+    background-color: #fefefe;
+    text-align: center;
+}
+
+.mensagem1{
+    background-color: #fde47b;
+    border-radius: 5px;
+    margin: 2em;
+    border: solid;
+    border-color: #000000;
+    border-radius: 5px;
+    padding: 1em;
+  
+
+}
+
+.mensagem2{
+    background-color: #fde47b;;
+    border-radius: 5px;
+    margin: 2em;
+  
+
+}
+
+
+
