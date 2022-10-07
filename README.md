@@ -1,4 +1,3 @@
-🤖 Bot Discord iniciado em 20/12/2021 🤖
 
 Projeto de página WEB para verificar tipos de Pokemons :D
 
